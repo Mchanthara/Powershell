@@ -1,0 +1,40 @@
+{
+    "employees": [
+      {
+        "id": 1,
+        "name": "John Smith",
+        "position": "Software Engineer",
+        "department": "Engineering",
+        "salary": 80000
+      },
+      {
+        "id": 2,
+        "name": "Emily Johnson",
+        "position": "Product Manager",
+        "department": "Product Management",
+        "salary": 90000
+      },
+      {
+        "id": 3,
+        "name": "Michael Brown",
+        "position": "Data Scientist",
+        "department": "Data Science",
+        "salary": 95000
+      },
+      {
+        "id": 4,
+        "name": "Jennifer Martinez",
+        "position": "Marketing Specialist",
+        "department": "Marketing",
+        "salary": 75000
+      },
+      {
+        "id": 5,
+        "name": "David Lee",
+        "position": "Graphic Designer",
+        "department": "Design",
+        "salary": 70000
+      }
+    ]
+  }
+  
