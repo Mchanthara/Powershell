@@ -1,0 +1,14 @@
+
+AN906494@us.mufg.jp;0;2024-09-29 16:15:47:110 ;Administrators
+Mohan@us.mufg.jp;0;2024-09-29 16:15:47:110 ;Administrators
+Doran.Shiroma@us.mufg.jp;0;2024-02-29 16:15:47:110 ;SQL Administrators
+Sam.Men@us.mufg.jp;0;2024-06-29 16:15:47:110 ;Site Administrator
+Sam.Men@us.mufg.jp;0;2024-04-29 16:15:47:110 ;Site Administrator
+Sam.Men@us.mufg.jp;0;2024-02-29 16:15:47:110 ;Site Administrator
+Sam.Men@us.mufg.jp;0;2024-09-23 16:15:47:110 ;Auditors
+Ken.Hirata@us.mufg.jp;0;2024-05-29 16:15:47:110 ;Software Asset Managers
+Danny.Veng@us.mufg.jp;0;2024-04-29 16:15:47:110 ; Infrastructure Administrators
+Danny.Veng@us.mufg.jp;0;2024-07-29 16:15:47:110 ; Infrastructure Administrators
+David.Vu@us.mufg.jp;0;2024-05-29 16:15:47:110 ; Infrastructure Administrators
+Dan.Men@us.mufg.jp;0;2024-04-29 16:15:47:110;Infrastructure Administrators
+Danny.Veng@us.mufg.jp ;0;2024-04-29 16:15:47:110 ; Infrastructure Administrators
